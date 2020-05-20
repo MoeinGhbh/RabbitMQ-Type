@@ -48,4 +48,4 @@ connection.close()
 
 
 
-# python queue.py Q1 'any' A C
+# python producer.py P1 'Message 1 from producer P1' A Producer name: P1, headers: {'K1': 'A'}, message text:{"producerName": "P1", "headersValues": ["A"], "headers": {"K1": "A"}, "messageText": "Message 1 from producer P1"}

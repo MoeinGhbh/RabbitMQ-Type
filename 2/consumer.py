@@ -45,5 +45,7 @@ print("Producer name: %s, headers: %s, message text:%s" % (producerName, headers
 connection.close()
 
 
-# python queue.py Q1 'any' A C
+
+
+
 # python queue.py Q1 'any' A C
